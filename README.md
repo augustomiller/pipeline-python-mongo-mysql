@@ -1,1 +1,0 @@
-# pipeline-python-mongo-mysql
